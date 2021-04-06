@@ -1,6 +1,9 @@
 # ProyectoFinal
  
-## PARTICIPANTES
+## Descripcion
+
+
+### Integrantes
 
 *Andres Figueredo
 
@@ -9,11 +12,12 @@
 
 
 
+
 ### Guia de un gamin
-|To do          |Doing          |Down           |
-|---------------|:-------------:|--------------:|
-|[] Perico      |               |               |
-|[] Poper       |               |               |
-|[] Tussi       |               |               |
-|[] Vodka       |               |               |
-|[] sexo        |               |               |
+|To do              |Doing           |Done           |
+|-------------------|:--------------:|--------------:|
+|[ ]Organizar Readme|[ ]Organizandolo|[ ]Realizado   |
+|                   |                |               |
+|                   |                |               |
+|                   |                |               |
+|                   |                |               |
