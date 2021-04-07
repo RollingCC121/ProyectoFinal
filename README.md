@@ -9,10 +9,10 @@ Es un trabajo en parejas, donde usaremos lo que aprendimos de java para crear un
 ### ___Integrantes___
 
 [img1]: C:\Users\Dan_G\OneDrive\Documents\GitHub\ProyectoFinal\imagenes\81369594.png
-*Andres Figueredo(aZola16)
+* Andres Figueredo(aZola16)
 
 [img2]: (78520146.png)
-*Daniel Gaviria(RollinCC121)
+* Daniel Gaviria(RollinCC121)
 
 ---
 
@@ -22,9 +22,18 @@ Es un trabajo en parejas, donde usaremos lo que aprendimos de java para crear un
    En esta semana nos reunimos por teams para crear el repositorio y añadir el readme. 
 
 2. _SegundaSemana_
+    <html>
+    <body>
+    <p style=»text-align: justify;»> 
+   
+   * _Martes:_ comenzamos a modificar el README usan sintaxis markdown, agregando titulos, integrantes y una tabla de post its.
 
-   Comenzamos a modificar el readme, usando sintaxis markdown. Agregando la descripcion del proyecto, seguimiento semanal, los nombres de los desarrolladores y una tabla de post its.
+   * _Miercoles:_ continuamos con la modificacion del README, en este dia se le agrego una descrpcion basica del proyecto y se comenzo con el seguimiento semanal
 
+    </p>
+    </body>
+    </html>
+---
 ---
 
 

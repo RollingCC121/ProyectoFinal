@@ -1,6 +1,6 @@
 git config --global user.name "UserName"
 git config --global user.email "YouEmail"
-git commit -m "descrpcion"
+git commit "descripcion"
 git push
 
 ----------
