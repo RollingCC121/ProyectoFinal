@@ -11,7 +11,7 @@ Es un trabajo en parejas, donde usaremos lo que aprendimos de java para crear un
 [img1]: C:\Users\Dan_G\OneDrive\Documents\GitHub\ProyectoFinal\imagenes\81369594.png
 * Andres Figueredo(aZola16)
 
-[img2]: (78520146.png)
+[img2]: (https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/04/08/15863374252712.jpg)
 * Daniel Gaviria(RollinCC121)
 
 ---
@@ -39,8 +39,8 @@ Es un trabajo en parejas, donde usaremos lo que aprendimos de java para crear un
 
 |To do              |Doing           |Done           |
 |-------------------|:--------------:|--------------:|
-|Organizar Readme   |Organizandolo   |[ ]Realizado   |
-|Segumiento semanal |Semanalmente    |[ ]Realizado   |
+|Organizar Readme   |Organizandolo   |Sin realizar   |
+|Segumiento semanal |Semanalmente    |Sin realizar   |
 |                   |                |               |
 |                   |                |               |
 |                   |                |               |
