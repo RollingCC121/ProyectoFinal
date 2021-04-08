@@ -1,9 +1,6 @@
 git config --global user.name "UserName"
-git config --global user.email "YouEmail"
-git commit "descripcion"
-git push
 
-----------
+git config --global user.email "YouEmail"
 
 git init
 
@@ -13,7 +10,8 @@ git commit -m "first commit"
 
 git remote add origin https://github.com/NOMBRE_USUARIO/NOMBRE_PROYECTO.git
 
+git push
+
 git push -u origin master
 
-
-token rolling :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
+git pull #bajar cambios del repositorio
