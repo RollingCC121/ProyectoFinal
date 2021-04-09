@@ -9,12 +9,6 @@ Es un trabajo en parejas, donde usaremos lo que aprendimos de java para crear un
 
 ### ___Integrantes___
 
-[img1]: C:\Users\Dan_G\OneDrive\Documents\GitHub\ProyectoFinal\imagenes\81369594.png
-*Andres Figueredo(aZola16)
-
-[img2]: C:\Users\Dan_G\OneDrive\Documents\GitHub\ProyectoFinal\imagenes\78520146.png
-*Daniel Gaviria(RollinCC121)
-
 
 [img1]: C:\Users\Dan_G\OneDrive\Documents\GitHub\ProyectoFinal\imagenes\81369594.png
 * Andres Figueredo(aZola16)
@@ -49,7 +43,6 @@ Es un trabajo en parejas, donde usaremos lo que aprendimos de java para crear un
 |-------------------|:--------------:|--------------:|
 |Organizar Readme   |Organizandolo   |Sin realizar   |
 |Segumiento semanal |Semanalmente    |Sin realizar   |
-|Organizar Readme   |Organizandolo   |[ ]Realizado   |
 |                   |                |               |
 |                   |                |               |
 |                   |                |               |
