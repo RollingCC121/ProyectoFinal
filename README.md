@@ -3,8 +3,7 @@
 
 ## ___Descripcion___
 
-Es un trabajo en parejas, donde usaremos lo que aprendimos de java para crear un programa(sin definir), apoyandonos con erramientas de desarrollo como git y editores de texto. 
-
+Es un trabajo en parejas, donde realizaremos un reproductor de musica con una interfaz de texto.
 
 
 ### ___Integrantes___
@@ -13,7 +12,7 @@ Es un trabajo en parejas, donde usaremos lo que aprendimos de java para crear un
 * Andres Figueredo(aZola16)
 
 
-* Daniel Gaviria(RollinCC121)
+* Daniel Gaviria(RollingCC121)
 
 ---
 
@@ -28,25 +27,25 @@ Es un trabajo en parejas, donde usaremos lo que aprendimos de java para crear un
 
    * _Miercoles(15/3/2021):_ continuamos con la modificacion del README, en este dia se le agrego una descrpcion basica del proyecto y se comenzo con el seguimiento semanal
   
-  3. _TerceraSemana_
+3. _TerceraSemana_
    
    * _Martes:_
   
    * _Jueves:_
   
-  4. _CuartaSemana_
+4. _CuartaSemana_
 
    * _Martes:_
   
    * _Jueves:_
 
-  5. _QuintaSemana_
+5. _QuintaSemana_
    
    * _Martes:_
   
    * _Jueves:_
 
-  6. _SextaSemana_
+6. _SextaSemana_
    
    * _Martes:_
 
@@ -58,9 +57,9 @@ Es un trabajo en parejas, donde usaremos lo que aprendimos de java para crear un
 
 |To do              |Doing           |Done           |
 |-------------------|:--------------:|--------------:|
-|Organizar Readme   |Organizandolo   |Sin realizar   |
-|Segumiento semanal |Semanalmente    |Sin realizar   |
-|                   |                |               |
-|                   |                |               |
+|Organizar Readme   |Organizandolo   |Realizado      |
+|Crear Interfaz     |Planeacion      |Sin realizar   |
+|Funcion Reproducir |Planeacion      |Sin realizar   |
+|Funcion Pausar     |Planeacion      |Sin realizar   |
 |                   |                |               |
 |                   |                |               |
