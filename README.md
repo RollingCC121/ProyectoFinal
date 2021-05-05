@@ -29,27 +29,51 @@ Es un trabajo en parejas, donde realizaremos un reproductor de musica con una in
   
 3. _TerceraSemana_
    
-   * _Martes:_
+   * _Martes(20/3/2021):_
   
-   * _Jueves:_
+   * _Jueves(22/3/2021):_
   
 4. _CuartaSemana_
 
-   * _Martes:_
+   * _Martes(27/03/2021):_
   
-   * _Jueves:_
+   * _Jueves(29/03/2021):_
 
 5. _QuintaSemana_
    
-   * _Martes:_
+   * _Martes(04/04/2021):_
   
-   * _Jueves:_
+   * _Jueves(06/04/2021):_
 
 6. _SextaSemana_
    
-   * _Martes:_
+   * _Martes(3/04/2021):_
 
-   * _Jueves:_
+   * _Jueves(5/04/2021):_
+
+7. _SeptimaSemana_
+
+   *_Martes(10/04/2021):_
+
+   *_Jueves(12/04/2021):_
+
+8. _OctavaSemana_
+
+   *_Martes(17/04/2021):_
+
+   *_Jueves(19/04/2021):_
+
+9. _NovenaSemana_
+
+   *_Martes(24/04/2021):_
+
+   *_Jueves(26/04/2021):_
+
+10. _DecimaSemana_
+
+   *_Martes(4/04/2021):_
+
+
 
 ---
 ---
