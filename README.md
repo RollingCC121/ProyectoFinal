@@ -10,10 +10,9 @@ Es un trabajo en parejas, donde usaremos lo que aprendimos de java para crear un
 ### ___Integrantes___
 
 
-[img1]: C:\Users\Dan_G\OneDrive\Documents\GitHub\ProyectoFinal\imagenes\81369594.png
 * Andres Figueredo(aZola16)
 
-[img2]: (https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/04/08/15863374252712.jpg)
+
 * Daniel Gaviria(RollinCC121)
 
 ---
@@ -21,20 +20,38 @@ Es un trabajo en parejas, donde usaremos lo que aprendimos de java para crear un
 ### ___SeguimientoSemanal___
 1. _PrimeraSemana_
    
-   En esta semana nos reunimos por teams para crear el repositorio y añadir el readme. 
+   * _Martes(7/3/2021):_ En esta semana nos reunimos por teams para crear el repositorio y añadir el readme. 
 
 2. _SegundaSemana_
-    <html>
-    <body>
-    <p style=»text-align: justify;»> 
+       
+   * _Martes(13/3/2021):_ comenzamos a modificar el README usan sintaxis markdown, agregando titulos, integrantes y una tabla de post its.
+
+   * _Miercoles(15/3/2021):_ continuamos con la modificacion del README, en este dia se le agrego una descrpcion basica del proyecto y se comenzo con el seguimiento semanal
+  
+  3. _TerceraSemana_
    
-   * _Martes:_ comenzamos a modificar el README usan sintaxis markdown, agregando titulos, integrantes y una tabla de post its.
+   * _Martes:_
+  
+   * _Jueves:_
+  
+  4. _CuartaSemana_
 
-   * _Miercoles:_ continuamos con la modificacion del README, en este dia se le agrego una descrpcion basica del proyecto y se comenzo con el seguimiento semanal
+   * _Martes:_
+  
+   * _Jueves:_
 
-    </p>
-    </body>
-    </html>
+  5. _QuintaSemana_
+   
+   * _Martes:_
+  
+   * _Jueves:_
+
+  6. _SextaSemana_
+   
+   * _Martes:_
+
+   * _Jueves:_
+
 ---
 ---
 
