@@ -41,7 +41,7 @@ Es un trabajo en parejas, donde realizaremos un reproductor de música con una i
 
 5. _Quinta Semana_
    
-   * _Martes(05/05/2021):_
+   * _Miércoles(05/05/2021):_
 
 
 ---
