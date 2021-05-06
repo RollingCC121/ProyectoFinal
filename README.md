@@ -48,11 +48,10 @@ Es un trabajo en parejas, donde realizaremos un reproductor de música con una i
 ---
 
 
-|To do              |Doing           |Done           |
-|-------------------|:--------------:|--------------:|
-|Organizar Readme   |Organizandolo   |Realizado      |
-|Crear Interfaz     |Planeacion      |Sin realizar   |
-|Funcion Reproducir |Planeacion      |Sin realizar   |
-|Funcion Pausar     |Planeacion      |Sin realizar   |
-|                   |                |               |
-|                   |                |               |
+|To do               |Doing          |Done           |
+|--------------------|:-------------:|--------------:|
+|Organizar Readme    |Organizandolo  |Realizado      |
+|Crear Interfaz      |Planeacion     |Sin realizar   |
+|Mostrar informacion |Planeacion     |Sin Realizar   |         
+|Funcion Reproducir  |Planeacion     |Sin realizar   |
+|Funcion Pausar      |Planeacion     |Sin realizar   |
