@@ -1,78 +1,47 @@
 # _ProyectoFinal_
  
 
-## ___Descripcion___
+## ___Descripción___
 
-Es un trabajo en parejas, donde realizaremos un reproductor de musica con una interfaz de texto.
-
-
-### ___Integrantes___
+Es un trabajo en parejas, donde realizaremos un reproductor de música con una interfaz de texto.
 
 
-* Andres Figueredo(aZola16)
+### ___Integrantes :raised_hands:___
+
+
+* Andrés Figueredo(aZola16)
 
 
 * Daniel Gaviria(RollingCC121)
 
 ---
 
-### ___SeguimientoSemanal___
-1. _PrimeraSemana_
+### ___Seguimiento Semanal📋___
+1. _Primera Semana_
    
-   * _Martes(7/3/2021):_ En esta semana nos reunimos por teams para crear el repositorio y añadir el readme. 
+   * _Martes(7/4/2021):_ En esta semana nos reunimos por teams para crear el repositorio y añadir el readme. 
 
-2. _SegundaSemana_
+2. _Segunda Semana_
        
-   * _Martes(13/3/2021):_ comenzamos a modificar el README usan sintaxis markdown, agregando titulos, integrantes y una tabla de post its.
+   * _Miércoles(14/4/2021):_ comenzamos a modificar el README usan sintaxis markdown, agregando titulos, integrantes y una tabla de post its.
 
-   * _Miercoles(15/3/2021):_ continuamos con la modificacion del README, en este dia se le agrego una descrpcion basica del proyecto y se comenzo con el seguimiento semanal
+   * _Sábado(17/4/2021):_ continuamos con la modificacion del README, en este día se le agregó una descrpción básica del proyecto y se comenzó con el seguimiento semanal.
   
-3. _TerceraSemana_
+3. _Tercera Semana_
    
-   * _Martes(20/3/2021):_
+   * _Miércoles(21/4/2021):_
   
-   * _Jueves(22/3/2021):_
+   * _Sabado(24/4/2021):_
   
-4. _CuartaSemana_
+4. _Cuarta Semana_
 
-   * _Martes(27/03/2021):_
+   * _Miércoles(28/04/2021):_
   
-   * _Jueves(29/03/2021):_
+   * _Sabado(01/05/2021):_
 
-5. _QuintaSemana_
+5. _Quinta Semana_
    
-   * _Martes(04/04/2021):_
-  
-   * _Jueves(06/04/2021):_
-
-6. _SextaSemana_
-   
-   * _Martes(3/04/2021):_
-
-   * _Jueves(5/04/2021):_
-
-7. _SeptimaSemana_
-
-   *_Martes(10/04/2021):_
-
-   *_Jueves(12/04/2021):_
-
-8. _OctavaSemana_
-
-   *_Martes(17/04/2021):_
-
-   *_Jueves(19/04/2021):_
-
-9. _NovenaSemana_
-
-   *_Martes(24/04/2021):_
-
-   *_Jueves(26/04/2021):_
-
-10. _DecimaSemana_
-
-   *_Martes(4/04/2021):_
-
+   * _Martes(05/05/2021):_
 
 
 ---
