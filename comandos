@@ -10,6 +10,12 @@ git commit -m "first commit"
 
 git remote add origin https://github.com/NOMBRE_USUARIO/NOMBRE_PROYECTO.git
 
+git branch #te muestra en que rama estas
+
+git branch "NombreRama" #creas una rama nueva
+
+git checkout "NombreRama" #cambias de rama
+
 git push
 
 git push -u origin master
