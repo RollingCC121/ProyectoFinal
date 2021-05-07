@@ -25,23 +25,26 @@ Es un trabajo en parejas, donde realizaremos un reproductor de música con una i
        
    * _Miércoles(14/4/2021):_ comenzamos a modificar el README usan sintaxis markdown, agregando titulos, integrantes y una tabla de post its.
 
-   * _Sábado(17/4/2021):_ continuamos con la modificacion del README, en este día se le agregó una descrpción básica del proyecto y se comenzó con el seguimiento semanal.
+   * _Sábado(17/4/2021):_ continuamos con la modificacion del README. En este día se le agregó una descrpción básica del proyecto y se comenzó con el seguimiento semanal.
   
 3. _Tercera Semana_
    
-   * _Miércoles(21/4/2021):_
+   * _Miércoles(21/4/2021):_ Continuamos con la modificación del README. En este día además de agregar el seguimiento, consulamos más formas para editar el README.
   
-   * _Sabado(24/4/2021):_
+   * _Sabado(24/4/2021):_ En este día aplicamos los cambios aprendidos en el encuentro pasado.
+   ...
+   Incluimos cuadros de texto para resaltar ciertos anuncios.
+   ...
   
 4. _Cuarta Semana_
 
-   * _Miércoles(28/04/2021):_
+   * _Miércoles(28/04/2021):_ Ese día nos reunimos para practicar lo que vimos en clase.
   
-   * _Sabado(01/05/2021):_
+   * _Sabado(01/05/2021):_ Aplicamos cambios al README, configuramos la organización para hacerlo más presentable.
 
 5. _Quinta Semana_
    
-   * _Miércoles(05/05/2021):_
+   * _Miércoles(05/05/2021):_ En este día definimos qué vamos a hacer de proyecto y empezamos a planear lo que debemos hacer, quién lo hará y en qué tiempos.
 
 
 ---
