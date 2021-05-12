@@ -84,13 +84,13 @@ public class Programa{
 		System.out.println("   | |    |                                                       |    | |  ");
 		System.out.println("   | |    |                                                       |    | |  ");
 		System.out.println("   | |    |                                                       |    | |  ");
-		System.out.println("   | |    |                1.ver lista de canciones:              |    | |  ");
+		System.out.println("   | |    |                   1.Buscar canciones:                  |    | |  ");
+		System.out.println("   | |    |                  2.Reproducir canción:                |    | |  ");
+		System.out.println("   | |    |              3.Ver la letra de la canción:            |    | |  ");
+		System.out.println("   | |    |                   4. Detener canción:                 |    | |  ");
+		System.out.println("   | |    |                5. Ver lista de canciones:             |    | |  ");
+		System.out.println("   | |    |                        6. Salir:                      |    | |  ");
 		System.out.println("   | |    |                                                       |    | |  ");
-		System.out.println("   | |    |             2.ver la letra de una canción:            |    | |  ");
-		System.out.println("   | |    |                                                       |    | |  ");
-		System.out.println("   | |    |                3.reproducir una canción:              |    | |  ");
-		System.out.println("   | |    |                                                       |    | |  ");
-		System.out.println("   | |    |          4.reproducir una canción aleatoria:          |    | |  ");
 		System.out.println("   | |    |                                                       |    | |  ");
 		System.out.println("   | |    |                                                       |    | |  ");
 		System.out.println("   | |    |                                                       |    | |  ");
@@ -197,5 +197,4 @@ public class Programa{
 		finally{
 			audio.detener();
 		}
-	}
-}
+	
