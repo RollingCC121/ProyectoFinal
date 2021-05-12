@@ -1,6 +1,11 @@
+
+import java.util.Scanner;
+
 public class interfaz {
 
      public static void main(String[] args){
+
+          int valor;
           
 
     System.out.println("     ___________________________________________________________________    ");
@@ -33,6 +38,27 @@ public class interfaz {
     System.out.println("    \".______________________________\\___/______________________________.\"  ");
 
 
+          Scanner opcion = new Scanner(System.in);
+          valor = opcion.nextInt();
+          // System.out.println(valor);
+     
+     
+          if(valor == 1){
+               System.out.println("puto el que lo lea " + valor);
+          }
 
-     }
+          if(valor == 2){
+               System.out.println("puto el que lo lea " + valor);
+          }
+
+          if(valor == 3){
+               System.out.println("puto el que lo lea " + valor);     
+          }
+
+          if(valor == 4){
+               System.out.println("puto el que lo lea " + valor);
+          }
+
+     }     
+               
 }
