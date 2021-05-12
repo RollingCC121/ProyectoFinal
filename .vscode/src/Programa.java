@@ -74,30 +74,34 @@ public class Programa{
 	}
 
 	public static void menu(){
-		System.out.println("	 __________________________________________________________________");
-		System.out.println("	|                              _     _                             |");
-		System.out.println("	|                             ( \\---/ )                            |");
-		System.out.println("	|                              ) . . (                             |");
-		System.out.println("	|________________________,--._(___Y___)_,--.____________________hjw|");
-		System.out.println("	|                        `--'           `--'                       |");
-		System.out.println("	|		                  _   _  __                        |");
-		System.out.println("	|		                 | | (_)/ _|                       |");
-		System.out.println("	|		  ___ _ __   ___ | |_ _| |_ _   _                  |");
-		System.out.println("	|		 / __| '_ \\ / _ \\| __| |  _| | | |                 |");
-		System.out.println("	|		 \\__ \\ |_) | (_) | |_| | | | |_| |                 |");
-		System.out.println("	|		 |___/ .__/ \\___/ \\__|_|_|  \\__, |                 |");
-		System.out.println("	|		     | |                     __/ |                 |");
-		System.out.println("	|		     |_|                    |___/                  |");
-				  imprimir("	|                                                          	   |");
-				  imprimir("	|                    Ingrese una opción así:		 	   |");
-				  imprimir("	|                    1. Buscar canción			 	   |");
-				  imprimir("	|                    2. Reproducir canción			   |");
-				  imprimir("	|                    3. Mostrar Letra				   |");
-				  imprimir("	|                    4. Detener Canción				   |");
-				  imprimir("	|                    5. Imprimir lista de Canciones		   |");
-				  imprimir("	|                    6. Salir					   |");
-		System.out.println("	|__________________________________________________________________|");
-		System.out.print("	Spotify$ ");
+		System.out.println("     ___________________________________________________________________    ");
+		System.out.println("   .'  _______________________________________________________________  '.  ");
+		System.out.println("   : .'                         | Bienvenidos |                       '. :  ");
+		System.out.println("   | |                          |      A      |                        | |  ");
+		System.out.println("   | |           UwU            |  All-Repro  |          UwU           | |  ");
+		System.out.println("   | |      ____________________|_____________|__________________      | |  ");
+		System.out.println("   | |    .:_____________________________________________________:.    | |  ");
+		System.out.println("   | |    |                                                       |    | |  ");
+		System.out.println("   | |    |                                                       |    | |  ");
+		System.out.println("   | |    |                                                       |    | |  ");
+		System.out.println("   | |    |                1.ver lista de canciones:              |    | |  ");
+		System.out.println("   | |    |                                                       |    | |  ");
+		System.out.println("   | |    |             2.ver la letra de una canción:            |    | |  ");
+		System.out.println("   | |    |                                                       |    | |  ");
+		System.out.println("   | |    |                3.reproducir una canción:              |    | |  ");
+		System.out.println("   | |    |                                                       |    | |  ");
+		System.out.println("   | |    |          4.reproducir una canción aleatoria:          |    | |  ");
+		System.out.println("   | |    |                                                       |    | |  ");
+		System.out.println("   | |    |                                                       |    | |  ");
+		System.out.println("   | |    |                                                       |    | |  ");
+		System.out.println("   | |    |                                                       |    | |  ");
+		System.out.println("   | |    |              __________________________               |    | |  ");
+		System.out.println("   | |    |             |  |  |  |  |  |  |  |  |  |              |    | |  ");
+		System.out.println("   | |    '.____________|__|__|__|__|__|__|__|__|__|____________.'     | |  ");
+		System.out.println("   | |                                                                 | |  ");
+		System.out.println("   | |                            ALL-Repro                            | |  ");
+		System.out.println("   : '._______________________________________________________________.' :  ");
+		System.out.println("    \".______________________________\\___/______________________________.\"  ");
 	}
 
 	public static void main(String[] args) {
