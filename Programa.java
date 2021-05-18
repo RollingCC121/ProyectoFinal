@@ -90,7 +90,7 @@ public class Programa{
 		System.out.println("   | |    |                                                       |    | |  ");
 		System.out.println("   | |    |                   4.Detener cancion:                  |    | |  ");
 		System.out.println("   | |    |                                                       |    | |  ");
-		System.out.println("   | |    |             5.Imprimir lista de canciones:            |    | |  ");
+		System.out.println("   | |    |             5.Imprimir info de una canción:           |    | |  ");
 		System.out.println("   | |    |                                                       |    | |  ");
 		System.out.println("   | |    |                       6.Salir:                        |    | |  ");
 		System.out.println("   | |    |              __________________________               |    | |  ");
