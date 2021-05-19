@@ -46,6 +46,18 @@ Es un trabajo en parejas, donde realizaremos un reproductor de música con una i
    
    * _Miércoles(05/05/2021):_ En este día definimos qué vamos a hacer de proyecto y empezamos a planear lo que debemos hacer, quién lo hará y en qué tiempos.
 
+   * _Sabado(8/05/2021):_ Este dia hicimos un par de cambios al interfaz y redefinimos como hacer el trabajo.
+
+6. _Sexta Semana_
+
+   * _Miercoles(12/05/2021):_ Cambiamos todo el codigo de nuevo y actualizamos los seguimientos.
+
+   * _Sabado(15/05/2021):_ Treminas de acomodar el codigo y probramos si todo funcioenaba.
+
+7. _Septima Semana_
+
+   * _Miercoles(19/05/2021):_ actualizamos por ultima vez el seguimiento y comenzamos a planear la presentación.
+
 
 ---
 ---
