@@ -82,7 +82,7 @@ public class Programa{
 		System.out.println("   | |      ____________________|_____________|__________________      | |  ");
 		System.out.println("   | |    .:_____________________________________________________:.    | |  ");
 		System.out.println("   | |    |                                                       |    | |  ");
-		System.out.println("   | |    |                    1.Buscar cancion:                  |    | |  ");
+		System.out.println("   | |    |                          MENU                         |    | |  ");
 		System.out.println("   | |    |                                                       |    | |  ");
 		System.out.println("   | |    |                  2.Reproducir cancion:                |    | |  ");
 		System.out.println("   | |    |                                                       |    | |  ");
