@@ -134,6 +134,7 @@ public class Programa{
 					
 					audio.seleccionarCancion(info_canciones[aleatorio][ConsoleData.RUTA_CANCION]);
 					audio.reproducir();
+					System.out.println("Se esta reproduciendo " + aleatorio);
 				}
 
 				if(centinela == 2)
