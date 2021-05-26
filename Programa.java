@@ -82,17 +82,17 @@ public class Programa{
 		System.out.println("   | |      ____________________|_____________|__________________      | |  ");
 		System.out.println("   | |    .:_____________________________________________________:.    | |  ");
 		System.out.println("   | |    |                                                       |    | |  ");
-		System.out.println("   | |    |                          MENU                         |    | |  ");
+		System.out.println("   | |    |             1.Reproducir canción aleatoria:           |    | |  ");
 		System.out.println("   | |    |                                                       |    | |  ");
-		System.out.println("   | |    |                  2.Reproducir cancion:                |    | |  ");
+		System.out.println("   | |    |                  2.Reproducir canción:                |    | |  ");
 		System.out.println("   | |    |                                                       |    | |  ");
 		System.out.println("   | |    |                    3.Mostrar letra:                   |    | |  ");
 		System.out.println("   | |    |                                                       |    | |  ");
-		System.out.println("   | |    |                   4.Detener cancion:                  |    | |  ");
+		System.out.println("   | |    |                   4.Detener canción:                  |    | |  ");
 		System.out.println("   | |    |                                                       |    | |  ");
 		System.out.println("   | |    |             5.Imprimir info de una canción:           |    | |  ");
 		System.out.println("   | |    |                                                       |    | |  ");
-		System.out.println("   | |    |                       6.Salir:                        |    | |  ");
+		System.out.println("   | |    |                        6.Salir:                       |    | |  ");
 		System.out.println("   | |    |              __________________________               |    | |  ");
 		System.out.println("   | |    |             |  |  |  |  |  |  |  |  |  |              |    | |  ");
 		System.out.println("   | |    '.____________|__|__|__|__|__|__|__|__|__|____________.'     | |  ");
@@ -105,7 +105,7 @@ public class Programa{
 	public static void main(String[] args) {
 		
 		//AnsiConsole.systemInstall();
-		
+		int aleatorio = (int) (Math.random() * 21 + 1);
 		Audio audio = new Audio();
 		int centinela = 0;	
 		int indice_cancion = 0;
@@ -129,6 +129,12 @@ public class Programa{
 				//TODO: Ojo falta validar la entrada de datos
 				//TODO: Recuerde usar el helper ConsoleInput y validar
 				centinela = ConsoleInput.getInt();
+				if (centinela == 1)
+				{
+					
+					audio.seleccionarCancion(info_canciones[aleatorio][ConsoleData.RUTA_CANCION]);
+					audio.reproducir();
+				}
 
 				if(centinela == 2)
 				{
